@@ -1,0 +1,1 @@
+INSERT INTO `notes` (`ID_note`, `note`, `commentaire`, `user_ID`, `test_ID`) VALUES (NULL, '15', 'Bon travail !', '25', '50');
